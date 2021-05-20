@@ -1,0 +1,41 @@
+.cards {
+  padding: 100px;
+  background: rgb(10, 10, 10);
+}
+.stamps {
+  position: fixed;
+  width: 100px;
+  background-repeat: no-repeat;
+  opacity: 0.5;
+}
+
+.overload {
+  background-image: url("https://img.freepik.com/free-photo/white-stripes-waves-surface-deformed-bands-surface-with-soft-light-modern-bright-background_1217-2509.jpg?size=626&ext=jpg&ga=GA1.2.842496213.1610236800");
+  background-color: aqua;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.space {
+  margin-left: 30px;
+  margin-right: 30px;
+  padding: 20px;
+  align-items: center;
+  display: inline-flex;
+}
+
+.resumeHeader {
+  width: auto;
+  border-radius: 20px;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: rgb(3, 3, 3);
+}
+
+.imageBanner {
+  position: absolute;
+  width: 100%;
+}

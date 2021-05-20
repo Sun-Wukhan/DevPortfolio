@@ -1,0 +1,52 @@
+{
+    "References": [
+        {
+            "firstName": "Mohammed",
+            "lastName": "Mursalin",
+            "job": "Obama Care",
+            "blurb": "Who is this guy?",
+            "role": "Team Lead",
+            "image": "https://media-exp1.licdn.com/dms/image/C4D03AQE1RYS38_TDOw/profile-displayphoto-shrink_800_800/0/1585441924546?e=1622073600&v=beta&t=k7VJtFZAiWN-Ylzq5guEMrfu3X1HAZTbV9ZpD2SbKf8"
+        },
+        {
+            "firstName": "Hasibul",
+            "lastName": "Chowdhury",
+            "job": "Flat Iron",
+            "blurb": "Hey...remember to Venmo me 10 dollars.",
+            "role": "TA",
+            "image": "https://media-exp1.licdn.com/dms/image/C4D03AQGHq6hIr6REfQ/profile-displayphoto-shrink_800_800/0/1588979529026?e=1622073600&v=beta&t=2FcNPIlDZf-vPx-8h7sUWR_94wy2zQ7OFJrnPUUmyEY"
+        },
+        {
+            "firstName": "Varun",
+            "lastName": "Mehrotra",
+            "job": "Bond Brand Loyalty",
+            "blurb": "You guys are getting paid?!",
+            "role": "Dev Ops",
+            "image": "https://media-exp1.licdn.com/dms/image/C4E03AQG-L_9QrFOo3w/profile-displayphoto-shrink_800_800/0/1576272580870?e=1622073600&v=beta&t=gPnMEHDkiQCqs2QgKFER8pAYKTYqDIrhpnuHT__tgEM"
+        },
+        {
+            "firstName": "Ahsan",
+            "lastName": "Ullah",
+            "job": "Bond Brand Loyalty",
+            "blurb": "He did all my work for me.",
+            "role": "Junior Developer",
+            "image": "https://media-exp1.licdn.com/dms/image/C5603AQFVqG3iFdDAhQ/profile-displayphoto-shrink_800_800/0/1534508918987?e=1622073600&v=beta&t=7vmqmfzI6vQrYNVpuY6iCIizj0KbV7PNLhuqLw82cYY"
+        },
+        {
+            "firstName": "Abhi",
+            "lastName": "Narayanan",
+            "job": "Bond Brand Loyalty",
+            "blurb": "Such a senior role, we call him geriatric.",
+            "role": "Analytics",
+            "image": "https://media-exp1.licdn.com/dms/image/C4E03AQGlHov3vLrzJw/profile-displayphoto-shrink_800_800/0/1611626605242?e=1622073600&v=beta&t=xG3MdIrPmW6A2M5jLmIro5TATn4udnr3GYq3SMDACuU"
+        },
+        {
+            "firstName": "Shohan",
+            "lastName": "Malik",
+            "job": "Sumrahdumcampeny",
+            "blurb": "I have to ask my mom first.",
+            "role": "SDET",
+            "image": "https://media-exp1.licdn.com/dms/image/C4D03AQEj9YMPjgscjQ/profile-displayphoto-shrink_800_800/0/1542487489656?e=1622073600&v=beta&t=c18mRJnmrlmV2ThBU8u15wLM7X6K8TOx4TbFtTchL4g"
+        }
+    ]
+}
